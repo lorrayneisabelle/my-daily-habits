@@ -1,14 +1,12 @@
-function Secaohabito ( {titulo, children}) { 
-return( 
-    <section>
-    <h2>{titulo}</h2>
-    <div className=" Lista-Habitos">
-        {children}
-    </div>
-    </section> 
-);
-
+function SecaonHabitos({ titulo, children }) {
+ return (
+   <section>
+     <h2>{titulo}</h2>
+     <div className="lista-habitos">
+       {children}
+     </div>
+   </section>
+ )
 }
-export default Secaohabito
 
-
+export default SecaonHabitos
