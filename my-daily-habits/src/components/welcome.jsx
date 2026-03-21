@@ -1,6 +1,6 @@
 import { useHabits } from "../contexts/HabitsContext"
 
-function BemVindo({ nomeUsuario }) {
+function Welcome({ nomeUsuario }) {
   // Acesso direto ao contexto — sem props, sem intermediários
   const { habits } = useHabits()
 
@@ -17,4 +17,4 @@ function BemVindo({ nomeUsuario }) {
   )
 }
 
-export default BemVindo
+export default Welcome

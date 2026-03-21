@@ -1,12 +1,15 @@
-import HabitList from '../components/HabitList'
+  // src/pages/PaginaHabitos.jsx
+  // src/pages/PaginaHabitos.jsx
 
-function PaginaHabitos() {
-  return (
-    <main className="pagina-habitos">
-      <h1>Meus Hábitos</h1>
-      <HabitList />
-    </main>
-  )
-}
+  import HabitList from '../components/HabitList'
 
-export default PaginaHabitos
+  function PaginaHabitos() {
+    return (
+      <main className="pagina-habitos">
+        <h1>Meus Hábitos</h1>
+        <HabitList />
+      </main>
+    )
+  }
+
+  export default PaginaHabitos

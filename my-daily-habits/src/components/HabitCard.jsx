@@ -1,3 +1,5 @@
+// src/components/HabitCard.jsx
+
 import { Link } from 'react-router-dom'
 
 function HabitCard({ id, nome, descricao, meta, ativo = true, diasFeitos = 0, categoria = 'Geral', onRemover }) {

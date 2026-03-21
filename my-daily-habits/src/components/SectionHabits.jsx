@@ -1,4 +1,4 @@
-function SecaonHabitos({ titulo, children }) {
+function SectionHabits({ titulo, children }) {
  return (
    <section>
      <h2>{titulo}</h2>
@@ -9,4 +9,5 @@ function SecaonHabitos({ titulo, children }) {
  )
 }
 
-export default SecaonHabitos
+
+export default SectionHabits

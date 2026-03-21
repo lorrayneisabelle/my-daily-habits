@@ -1,3 +1,5 @@
+// src/components/HabitList.jsx — só as alterações relevantes
+
 import { useState, useRef } from 'react'
 import { useNavigate } from 'react-router-dom'   // ← adicionar
 import HabitCard from './HabitCard'
