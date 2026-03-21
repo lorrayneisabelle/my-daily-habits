@@ -1,4 +1,4 @@
-# 🌐 Projeto My Daily Habits
+# 🌐 Projeto My Daily Habits Curso FullStack - Módulo 4 - Introdução ao React | ITEAM - RR.
 
 ## 🚀 Sobre o projeto
 
