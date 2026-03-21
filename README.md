@@ -1,5 +1,7 @@
-# 🌐 Projeto My Daily Habits Curso FullStack - Módulo 4 - Introdução ao React | ITEAM - RR.
-
+# 🌐 Projeto My Daily Habits 
+---
+# Curso FullStack - Módulo 4 - Introdução ao React | ITEAM - RR.
+---
 ## 🚀 Sobre o projeto
 
 O **My Daily Habits** é uma aplicação web desenvolvida utilizando **React** no curso FullStack - Módulo 4 do ITEAM - RR, com foco no gerenciamento de hábitos diários e na aplicação de boas práticas de desenvolvimento front-end.
